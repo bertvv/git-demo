@@ -2,4 +2,5 @@
 
 Demo repository workshop Git
 
-- toegevoegd door Lene
+- Toegevoegd door Lene
+- Toegevoegd door Bert
